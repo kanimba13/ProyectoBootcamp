@@ -1,0 +1,8 @@
+RESUMEN PARA EXPOSICION (15 MIN)
+======================================
+1) Proporcion total de empleados en riesgo alto de desercion: 5.67%.
+2) Burnout promedio por riesgo (Low/Medium/High): 44.03 / 55.05 / 60.80.
+3) Satisfaccion promedio por riesgo (Low/Medium/High): 3.69 / 3.05 / 2.66.
+4) % riesgo alto por miedo a sustitucion IA: High=22.07%, Low=0.76%, Medium=0.32%.
+5) Propuesta de solucion: intervencion priorizada en equipos con burnout alto y satisfaccion baja,
+   combinada con planes de bienestar psicosocial, rediseno de carga y capacitacion sobre adopcion IA.
